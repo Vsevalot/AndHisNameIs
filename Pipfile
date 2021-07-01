@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 envparse = "==0.2.0"
-discord = "*"
+discord = "==1.7.3"
 
 [requires]
 python_version = "3.9"

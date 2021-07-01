@@ -1,4 +1,4 @@
-#And his name is...Jhon Cena!!!
+# And his name is...Jhon Cena!!!
 Repo for a discord bit that will jump into a channel, whenever
 person enters and play some cool sound.
 
